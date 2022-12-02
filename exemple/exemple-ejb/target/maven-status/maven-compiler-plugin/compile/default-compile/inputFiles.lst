@@ -1,0 +1,12 @@
+/home4/mj662957/Master/BDED/TP-Serveur-Applications-20221125/EJB3_exemple/exemple/exemple-ejb/src/main/java/org/ow2/jonas/examples/ear/reader/LocalReader.java
+/home4/mj662957/Master/BDED/TP-Serveur-Applications-20221125/EJB3_exemple/exemple/exemple-ejb/src/main/java/org/ow2/jonas/examples/ear/entity/Compte.java
+/home4/mj662957/Master/BDED/TP-Serveur-Applications-20221125/EJB3_exemple/exemple/exemple-ejb/src/main/java/org/ow2/jonas/examples/ear/writer/LocalWriter.java
+/home4/mj662957/Master/BDED/TP-Serveur-Applications-20221125/EJB3_exemple/exemple/exemple-ejb/src/main/java/org/ow2/jonas/examples/ear/writer/Writer.java
+/home4/mj662957/Master/BDED/TP-Serveur-Applications-20221125/EJB3_exemple/exemple/exemple-ejb/src/main/java/org/ow2/jonas/examples/ear/reader/ReaderBean.java
+/home4/mj662957/Master/BDED/TP-Serveur-Applications-20221125/EJB3_exemple/exemple/exemple-ejb/src/main/java/org/ow2/jonas/examples/ear/init/Initializer.java
+/home4/mj662957/Master/BDED/TP-Serveur-Applications-20221125/EJB3_exemple/exemple/exemple-ejb/src/main/java/org/ow2/jonas/examples/ear/writer/RemoteWriter.java
+/home4/mj662957/Master/BDED/TP-Serveur-Applications-20221125/EJB3_exemple/exemple/exemple-ejb/src/main/java/org/ow2/jonas/examples/ear/writer/WriterBean.java
+/home4/mj662957/Master/BDED/TP-Serveur-Applications-20221125/EJB3_exemple/exemple/exemple-ejb/src/main/java/org/ow2/jonas/examples/ear/init/InitializerBean.java
+/home4/mj662957/Master/BDED/TP-Serveur-Applications-20221125/EJB3_exemple/exemple/exemple-ejb/src/main/java/org/ow2/jonas/examples/ear/reader/RemoteReader.java
+/home4/mj662957/Master/BDED/TP-Serveur-Applications-20221125/EJB3_exemple/exemple/exemple-ejb/src/main/java/org/ow2/jonas/examples/ear/reader/Reader.java
+/home4/mj662957/Master/BDED/TP-Serveur-Applications-20221125/EJB3_exemple/exemple/exemple-ejb/src/main/java/org/ow2/jonas/examples/ear/mdb/JMSMessageBean.java

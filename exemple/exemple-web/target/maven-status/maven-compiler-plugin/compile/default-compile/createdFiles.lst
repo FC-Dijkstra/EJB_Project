@@ -1,0 +1,3 @@
+org/ow2/jonas/examples/ear/web/ExampleServlet.class
+org/ow2/jonas/examples/ear/web/AdminServlet.class
+org/jboss/as/quickstarts/servlet/MdbServlet.class

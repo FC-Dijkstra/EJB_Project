@@ -1,0 +1,13 @@
+org/ow2/jonas/examples/ear/entity/Compte$QN.class
+org/ow2/jonas/examples/ear/reader/LocalReader.class
+org/ow2/jonas/examples/ear/reader/RemoteReader.class
+org/ow2/jonas/examples/ear/entity/Compte.class
+org/ow2/jonas/examples/ear/reader/Reader.class
+org/ow2/jonas/examples/ear/writer/RemoteWriter.class
+org/ow2/jonas/examples/ear/writer/LocalWriter.class
+org/ow2/jonas/examples/ear/writer/WriterBean.class
+org/ow2/jonas/examples/ear/init/Initializer.class
+org/ow2/jonas/examples/ear/reader/ReaderBean.class
+org/ow2/jonas/examples/ear/writer/Writer.class
+org/ow2/jonas/examples/ear/init/InitializerBean.class
+org/ow2/jonas/examples/ear/mdb/JMSMessageBean.class
