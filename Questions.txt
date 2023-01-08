@@ -1,0 +1,27 @@
+Exo 14:
+
+2)
+Par exemple, pour prévenir un utilisateur d'un transfert vers son compte
+
+3)
+
+Exo 15:
+
+1)
+
+2)
+Le bean ne peut pas être exécuté avec WildFly car la compatibilité entre la spec EJB 3.2 et les EntityBeans n'est plus obligatoire. La dernière version de WildFly capable de les exécuter est la version 8.
+
+Source: https://developer.jboss.org/thread/275292
+
+3)
+Le conteneur pourrait fonctionner comme une factory en générant autant de beans que nécessaire a partir des données dans la BD.
+
+4)
+On aurait pu avoir un pool de connexions partagé entre les beans, ou faire du traitement batch et mettre les résultats dans un cache interne pour réduire le volume d'appels.
+
+6)
+JPA est une spécification qui détaille comment gérer des données dans une appli java.
+Hibernate est une implémentation de JPA, donc utilisable dans une appli java.
+
+7)
